@@ -1,21 +1,8 @@
-<h1 align="center"> Busque Empresa </h1>
-
-<h1 align="center">
-    <img alt="Busque Empresa" title="#Busque Empresa" src="assets/recurso_grafico.png" />
-</h1>
-
-
-
-
 ## 💻 Sobre o ANDREWS
 
 📄 É um assistente de voz integrado com integração de chat GPT e gerador de imagem Dall-E (aprendizado de máquina)
 
 ---
-
-<h1 align="center">
-    <img alt="Busque Empresa" title="#Busque Empresa" src="assets/screenshort/smartphone/WhatsApp Image 2023-12-22 at 12.06.06 (3).jpeg" />
-</h1>
 
 ## 🛠 Recursos
 
