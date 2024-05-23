@@ -5,14 +5,11 @@
 </h1>
 
 
-<p align="center">
-	<img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
-</p>
 
 
-## 💻 Sobre o Busque Empresa
+## 💻 Sobre o ANDREWS
 
-📄 O aplicativo Busque Empresa forneçe informações de empresas, consultadas atráves do seu CNPJ. Auxiliando dessa forma com a prospecção com as mesmas. O aplicativo não coleta os dados de usuários.
+📄 É um assistente de voz integrado com integração de chat GPT e gerador de imagem Dall-E (aprendizado de máquina)
 
 ---
 
@@ -20,23 +17,17 @@
     <img alt="Busque Empresa" title="#Busque Empresa" src="assets/screenshort/smartphone/WhatsApp Image 2023-12-22 at 12.06.06 (3).jpeg" />
 </h1>
 
-## 🛠 Tecnologias
+## 🛠 Recursos
 
 
 
-- **[Flutter](https://flutter.dev/)**
-
----
-
-## 🧙‍♂️ Autor
-
-<a href="https://www.linkedin.com/in/andr%C3%A9-erm%C3%ADnio-04b7a66b/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47976648?s=400&u=0d11578ca2d3a07826c0a05bdafd9e3f5b01ab3a&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>André Ermínio da Silva</b></sub></a> 
- <br />
+- **Fala para texto**
+- **Gerar resposta ChatGPT no comando de voz**
+- **Gerar imagem por comando de voz**
+- **Texto para fala**
 
 ---
+
 
 ## 📝 Licença
 
